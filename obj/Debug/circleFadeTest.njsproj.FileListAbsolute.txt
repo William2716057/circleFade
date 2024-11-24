@@ -1,0 +1,3 @@
+C:\Users\wills\Desktop\Shortcuts\Files\Github\circleFadeTest\circleFadeTest\obj\Debug\circleFadeTest.njsproj.AssemblyReference.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\circleFadeTest\circleFadeTest\obj\Debug\circleFadeTest.njsproj.CoreCompileInputs.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\circleFadeTest\circleFadeTest\bin\Microsoft.NodejsTools.WebRole.dll
